@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyMedicine", "FamilyMedicine\FamilyMedicine.csproj", "{A1537FA7-3A67-4D11-993B-E3BE877E4768}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FamilyMedicine.Tests", "FamilyMedicine.Tests\FamilyMedicine.Tests.csproj", "{C0B276D1-F85F-480A-9D24-9DBF5D0E7F9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A1537FA7-3A67-4D11-993B-E3BE877E4768}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1537FA7-3A67-4D11-993B-E3BE877E4768}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1537FA7-3A67-4D11-993B-E3BE877E4768}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1537FA7-3A67-4D11-993B-E3BE877E4768}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C0B276D1-F85F-480A-9D24-9DBF5D0E7F9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C0B276D1-F85F-480A-9D24-9DBF5D0E7F9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C0B276D1-F85F-480A-9D24-9DBF5D0E7F9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C0B276D1-F85F-480A-9D24-9DBF5D0E7F9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
